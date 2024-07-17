@@ -1,2 +1,2 @@
-# React_Django_App
-React_Django_App
+# react_django_demo_app
+A demo app for React and Django Deployment
